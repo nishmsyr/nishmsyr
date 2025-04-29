@@ -5,7 +5,7 @@
 <h2>👨‍💻 Java Projects:</h2>
 - <b>[Go Kart System Project]</b>(https://github.com/nishmsyr/Go-Kart-System-Project)
 <h2>👨‍💻 Database Projects:</h2>
-[Car Rental Database SQL](https://github.com/nishmsyr/Car-Rental-Database)
+- <b>[Car Rental Database SQL]</b>(https://github.com/nishmsyr/Car-Rental-Database)
 <h2>👨‍💻 Website Development Projects:</h2>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
