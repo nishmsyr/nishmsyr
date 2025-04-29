@@ -5,8 +5,9 @@
 <h2>👨‍💻 Java Projects:</h2>
 - <b>[Go Kart System Project]</b>(https://github.com/nishmsyr/Go-Kart-System-Project)
 <h2>👨‍💻 Database Projects:</h2>
+[Car Rental Database SQL](https://github.com/nishmsyr/Car-Rental-Database)
 <h2>👨‍💻 Website Development Projects:</h2>
-<h2>👨‍💻 Basic Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -27,8 +28,6 @@
 <h2>📜Certifications</h2>
 <!--
 **nishmsyr/nishmsyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
