@@ -6,4 +6,5 @@
 <h2>👨‍💻 Database Projects:</h2>
 - <b>[Car Rental Database SQL]</b>(https://github.com/nishmsyr/Car-Rental-Database)
 <h2>👨‍💻 Website Development Projects:</h2>
+- <b>[Online Suit Shop]</b>(https://github.com/nishmsyr/OnlineSuitShop)
 <h2>👨‍💻 Cyber Security Projects:</h2>
